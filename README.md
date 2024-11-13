@@ -3,6 +3,7 @@
 Sonar data in a CSV file undergoes preprocessing to prepare it for model training. The processed data is then split into training and testing sets. A Logistic Regression model is built and trained using the training data, and the model is subsequently tested on new data for prediction.
 
 ![Workflow Diagram](https://github.com/tanishqharit/Rock_vs_Mine_Prediction/blob/main/Work_Flow.png)
+<img src="https://github.com/tanishqharit/Rock_vs_Mine_Prediction/blob/main/Work_Flow.png" alt="Workflow Diagram" width="500"/>
 
 ### Authors
 
